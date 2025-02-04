@@ -81,6 +81,7 @@ This project focuses on predicting monthly rental prices for properties in Kuala
 ---
 
 ## Predict with new input
--With new input, predicted rent is computed to be RM1125 with error of +/- RM199
+-What is the budget required to rent a condominium unit of 900sqft, with parking lot and 2 bathrooms with proximity to KTM/LRT in Selangor?
+-With the new input, predicted rent is computed to be RM1125 with error of +/- RM199
 
 ![image](https://github.com/user-attachments/assets/4340d736-4b54-47ea-ad9b-78e5693be384)
