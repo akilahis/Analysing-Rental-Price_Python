@@ -15,7 +15,7 @@ This project focuses on predicting monthly rental prices for properties in Kuala
    - [Hyperparameter Tuning](#hyperparameter-tuning)
 5. [Results](#results)
 6. [Feature Importance](#feature-importance)
-7. [Usage](#usage)
+7. [Predict with new input](#predict-with-new-input)
 
 ---
 
@@ -80,7 +80,7 @@ This project focuses on predicting monthly rental prices for properties in Kuala
 
 ---
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/rental-price-prediction.git
+## Predict with new input
+-With new input, predicted rent is computed to be RM1125 with error of +/- RM199
+
+![image](https://github.com/user-attachments/assets/4340d736-4b54-47ea-ad9b-78e5693be384)
